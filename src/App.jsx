@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Oyindamola you be my Valentine?
+            Oyindamola will you be my Valentine?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
@@ -92,7 +92,7 @@ const Footer = () => {
       href="https://github.com/Xeven777/valentine"
       target="__blank"
     >
-      Made with by Spark
+      Made by SPARK{" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
