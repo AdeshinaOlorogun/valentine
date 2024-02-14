@@ -92,7 +92,7 @@ const Footer = () => {
       href="https://github.com/Xeven777/valentine"
       target="__blank"
     >
-      Made with{" "}
+      Made with by Spark
       <span role="img" aria-label="heart">
         ❤️
       </span>
